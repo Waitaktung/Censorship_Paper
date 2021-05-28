@@ -1,4 +1,4 @@
-# Censorship_Paper (2021 Spring) 
+# Censorship Paper, Coursework in University of Mannheim (2021 Spring) 
 
 Keyword: Rmarkdown, OLS models, ggplots visualisation.  
 
