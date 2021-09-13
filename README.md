@@ -1,4 +1,4 @@
-# Censorship Paper, Coursework in University of Mannheim (2021 Spring) 
+# Censorship Paper, Course work in University of Mannheim (2021 Spring) Grade: 1.3
 
 Keywords: Rmarkdown, OLS models, data wraggling, ggplots visualisation.  
 
